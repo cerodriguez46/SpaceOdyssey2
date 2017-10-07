@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Space Odyssey</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_earth">EarthActivity</string>
+    <string name="title_activity_jupiter">JupiterActivity</string>
+
+    <string name="sundiameter">Diameter: 1,392,684 km</string>
+    <string name="sunmass">Mass:1.989 × 10^30 kg</string>
+    <string name="sunorbit">Orbit</string>
+    <string name="sunlengthofayear">Length of a Year</string>
+    <string name="sunsurfacetemperature">Surface Temperature: 5,500 °C</string>
+
+    <string name="mercurydiameter">Diameter: 4,879 km</string>
+    <string name="mercurymass">Mass: 3.285 × 10^23 kg</string>
+    <string name="mercuryorbit">Orbit: 88 days</string>
+    <string name="mercurymoons">Moons: None</string>
+    <string name="mercurysurfacetemperature">Surface Temperature: -173 to 427°C</string>
+
+    <string name="venusdiameter">Diameter: 12,104 km</string>
+    <string name="venusmass">Mass: 4, 867, 320, 000, 000, 000 billion kg</string>
+    <string name="venusorbit">Orbit: 224.70 Earth days</string>
+    <string name="venusmoons">Moons: None</string>
+    <string name="venussurfacetemperature">Surface Temperature: 462° C
+</string>
+
+    <string name="earthdiameter">Diameter: 12,756 km</string>
+    <string name="earthmass">Mass: 5, 972, 190, 000, 000, 000 billion kg</string>
+    <string name="earthorbit">Orbit; 365.26 Earth days</string>
+    <string name="earthmoons">Moons: The Moon</string>
+    <string name="earthsurfacetemperature">Surface Temperature: -88 to 58° C</string>
+
+    <string name="marsdiameter">Diameter: 6,805 km</string>
+    <string name="marsmass">Mass: 641, 693, 000, 000, 000 billion kg</string>
+    <string name="marsorbit">Orbit; 686.98 Earth days </string>
+    <string name="marsmoons">Moons: Phobos and Deimos
+</string>
+    <string name="marssurfacetemperature">Surface Temperature: -87 to -5 °C
+</string>
+
+    <string name="jupiterdiameter">Diameter: 142,984 km</string>
+    <string name="jupitermass">Mass: 1, 898, 130, 000, 000, 000, 000 billion kg</string>
+    <string name="jupiterorbit">Orbit: 11.86 Earth years</string>
+    <string name="jupitermoons">Moons: 67 including Io, Europa, Ganymede, and Callisto</string>
+    <string name="jupitersurfacetemperature">Surface Temperature: -108°C</string>
+
+    <string name="saturndiameter">Diameter: 120,536 km</string>
+    <string name="saturnmass">Mass: 568, 319, 000, 000, 000, 000 billion kg</string>
+    <string name="saturnorbit">Orbit: 29.45 Earth years</string>
+    <string name="saturnmoons">Moons: 62 including Titan, Rhea and Enceladus</string>
+    <string name="saturnsurfacetemperature">Surface Temperature: -139 °C
+</string>
+
+    <string name="neptunediameter">Diameter: 49,528 km
+</string>
+    <string name="neptunemass">Mass: 102, 410, 000, 000, 000, 000 billion kg</string>
+    <string name="neptuneorbit">Orbit: 164.79 Earth years</string>
+    <string name="neptunemoons">Moons: 14 including Triton
+</string>
+    <string name="neptunesurfacetemperature">Surface Temperature: -201 °C</string>
+
+    <string name="uranusdiameter">Diameter: 51,118 km</string>
+    <string name="uranusmass">Mass:	86, 810, 300, 000, 000, 000 billion kg</string>
+    <string name="uranusorbit">Orbit: 84.02 Earth years</string>
+    <string name="uranusmoons">Moons: 27 including Oberon, Titania, Miranda, Ariel and Umbriel</string>
+    <string name="uranussurfacetemperature">Surface Temperature: -197 °C</string>
+
+    <string name="sun">Sun</string>
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="uranus">Uranus</string>
+    <string name="neptune">Neptune</string>
+
+
+
+
+
+
+</resources>
